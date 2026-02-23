@@ -80,6 +80,3 @@ Once running, the sensor silently monitors the network. When a WoL broadcast is 
 * **IoT Automation:** Can be modified to trigger local bash scripts or webhooks when a specific MAC address is targeted, acting as a secret, passwordless network trigger.
 
 ```
-rements.txt` file next, or are you ready to push this straight to your GitHub?
-
-```
